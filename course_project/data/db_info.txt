@@ -1,0 +1,5 @@
+host:localhost
+database:musiclib
+user:ol_db_2020
+password:db2020
+schema:public

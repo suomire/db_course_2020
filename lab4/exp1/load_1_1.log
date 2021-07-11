@@ -1,0 +1,8 @@
+{"total_threads": 1, "thread_num": 1, "total_queries": 1, "mean_time": 5.088, "query_ms": 0.34243514535173397}
+{"total_threads": 1, "thread_num": 1, "total_queries": 2, "mean_time": 8.3255, "query_ms": 0.8455855151201259}
+{"total_threads": 1, "thread_num": 1, "total_queries": 1, "mean_time": 0.6900000000000001, "query_ms": 0.4532105434900838}
+{"total_threads": 1, "thread_num": 1, "total_queries": 2, "mean_time": 4.698, "query_ms": 0.7995883719061427}
+{"total_threads": 1, "thread_num": 1, "total_queries": 1, "mean_time": 193.281, "query_ms": 0.3217105737257688}
+{"total_threads": 1, "thread_num": 1, "total_queries": 2, "mean_time": 23.892000000000003, "query_ms": 0.5619083982548249}
+{"total_threads": 1, "thread_num": 1, "total_queries": 1, "mean_time": 12.815999999999999, "query_ms": 0.34378095102874734}
+{"total_threads": 1, "thread_num": 1, "total_queries": 2, "mean_time": 19.054, "query_ms": 0.5912595869046644}

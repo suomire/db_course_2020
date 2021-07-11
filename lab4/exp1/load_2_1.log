@@ -1,0 +1,16 @@
+{"total_threads": 2, "thread_num": 1, "total_queries": 1, "mean_time": 22.735999999999997, "query_ms": 0.4092014678875056}
+{"total_threads": 2, "thread_num": 2, "total_queries": 1, "mean_time": 283.16900000000004, "query_ms": 0.42892940079420566}
+{"total_threads": 2, "thread_num": 2, "total_queries": 2, "mean_time": 4.691, "query_ms": 0.7885185392536357}
+{"total_threads": 2, "thread_num": 1, "total_queries": 2, "mean_time": 2.793, "query_ms": 0.6654816656473705}
+{"total_threads": 2, "thread_num": 1, "total_queries": 1, "mean_time": 6.807, "query_ms": 0.4084586893050811}
+{"total_threads": 2, "thread_num": 2, "total_queries": 1, "mean_time": 160.868, "query_ms": 0.48907193221071765}
+{"total_threads": 2, "thread_num": 2, "total_queries": 2, "mean_time": 0.4545, "query_ms": 0.7402371053472138}
+{"total_threads": 2, "thread_num": 1, "total_queries": 2, "mean_time": 26.7015, "query_ms": 0.8040210701761651}
+{"total_threads": 2, "thread_num": 2, "total_queries": 1, "mean_time": 162.666, "query_ms": 0.3822985086152881}
+{"total_threads": 2, "thread_num": 1, "total_queries": 1, "mean_time": 280.835, "query_ms": 0.34663655088312595}
+{"total_threads": 2, "thread_num": 2, "total_queries": 2, "mean_time": 2.3, "query_ms": 0.5440243548823194}
+{"total_threads": 2, "thread_num": 1, "total_queries": 2, "mean_time": 118.04599999999999, "query_ms": 0.7517412206022199}
+{"total_threads": 2, "thread_num": 2, "total_queries": 1, "mean_time": 1.22, "query_ms": 0.36112516489877844}
+{"total_threads": 2, "thread_num": 1, "total_queries": 1, "mean_time": 269.824, "query_ms": 0.358215841522446}
+{"total_threads": 2, "thread_num": 1, "total_queries": 2, "mean_time": 33.119, "query_ms": 0.5465502296057515}
+{"total_threads": 2, "thread_num": 2, "total_queries": 2, "mean_time": 156.0465, "query_ms": 0.7975225758703164}
